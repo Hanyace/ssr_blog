@@ -5,6 +5,7 @@ export default defineNuxtConfig({
 
     timeline: {
       enabled: true
-    }
+    },
+
   }
 })
