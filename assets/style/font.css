@@ -1,0 +1,20 @@
+/* 注册字体 */
+@font-face {
+    font-family: '点字柔圆粗';
+    src: url('../font/点字柔圆粗.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: '汉仪无右锐楷';
+    src: url('../font/汉仪无右锐楷.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: '火山修竹';
+    src: url('../font/火山修竹.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Dearlove';
+    src: url('../font/Dearlove.ttf') format('truetype');
+}

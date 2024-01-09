@@ -2,6 +2,9 @@
     <div>
         主页{{ foo }}
         <a-button type="primary" @click="toAbout">按钮</a-button>
+        <div class="font">
+            LOVE fs  你好
+        </div>
     </div>
 </template>
 
@@ -23,4 +26,10 @@ const foo = add()
 // })
 </script>
 
-<style scoped lang='scss'></style>
+<style scoped lang='scss'>
+.font {
+    font-family: '火山修竹';
+    font-size: 50px;
+    font-weight: 700;
+}
+</style>
